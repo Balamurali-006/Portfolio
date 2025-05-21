@@ -4,10 +4,10 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaMediumM } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Figma and PowerBI </b>
               </i>
               <br />
               <br />
@@ -33,13 +33,13 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Machine Learning
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Html</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Balamurali-006"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,17 +77,17 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://medium.com/@71762308006"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <FaMediumM />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://linkedin.com/in/balamurali-m-940879316"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/_.dark_hand_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

@@ -8,33 +8,32 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            Hi everyone, I'm <span className="purple">Bala Murali</span>, currently pursuing my B.Tech in Artificial Intelligence and Data Science at <span className="purple">Coimbatore Institute of Technology</span>.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I'm a passionate frontend developer who loves turning ideas into meaningful digital experiences. I enjoy exploring technologies, solving real-world problems, and making things both useful and beautiful.
+            <br />
+            Instead of just seeing the overview of a problem, I dive straight into it and focus on finding the root cause to solve it effectively.
+            <br />
+            <br />
+            Outside of development, I'm into:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Designing user interfaces
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Writing tech blogs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Exploring new tools & ideas
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "I believe in building things with purpose and curiosity."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Bala Murali</footer>
         </blockquote>
       </Card.Body>
     </Card>
